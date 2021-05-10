@@ -1,0 +1,27 @@
+body {
+	background: #4d959e;
+	font-family: arial;
+}
+
+h1 {
+	color: #f27dfd;
+	padding: 10px;
+
+}
+li {
+	color: #f27dfd;
+	background: ;
+}
+
+p {
+	background:;
+	color: #f27dfd;
+	padding: 10px;
+}
+a {
+	color:#f27dfd;
+}
+.secondary {
+	background: none;
+	color: #777;
+}
